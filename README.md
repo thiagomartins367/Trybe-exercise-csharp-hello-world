@@ -47,9 +47,9 @@ Neste exercício, verificamos se você é capaz de:
 
   1. Clone o repositório
 
-  - Use o comando: `git clone git@github.com:tryber/csharp-0x-exercicio-ola-mundo.git`.
+  - Use o comando: `git clone git@github.com:tryber/csharp-001-exercicio-ola-mundo.git`.
   - Entre na pasta do repositório que você acabou de clonar:
-    - `cd csharp-0x-exercicio-ola-mundo`
+    - `cd csharp-001-exercicio-ola-mundo`
 
   2. Instale as dependências
 
@@ -63,7 +63,7 @@ Neste exercício, verificamos se você é capaz de:
     - Exemplo: `git checkout master`
   - Agora, crie uma branch à qual você vai submeter os `commits` do seu projeto
     - Você deve criar uma branch no seguinte formato: `nome-de-usuario-nome-do-projeto`
-    - Exemplo: `git checkout -b joaozinho-csharp-0x-exercicio-ola-mundo`
+    - Exemplo: `git checkout -b joaozinho-csharp-001-exercicio-ola-mundo`
 
   4. Adicione as mudanças ao _stage_ do Git e faça um `commit`
 
@@ -80,11 +80,11 @@ Neste exercício, verificamos se você é capaz de:
 
   5. Adicione a sua branch com o novo `commit` ao repositório remoto
 
-  - Usando o exemplo anterior: `git push -u origin joaozinho-csharp-0x-exercicio-ola-mundo`
+  - Usando o exemplo anterior: `git push -u origin joaozinho-csharp-001-exercicio-ola-mundo`
 
   6. Crie um novo `Pull Request` _(PR)_
 
-  - Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/csharp-0x-exercicio-ola-mundo`/pulls)
+  - Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/csharp-001-exercicio-ola-mundo`/pulls)
   - Clique no botão verde _"New pull request"_
   - Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção**
   - Coloque um título para a sua _Pull Request_
@@ -92,7 +92,7 @@ Neste exercício, verificamos se você é capaz de:
   - Clique no botão verde _"Create pull request"_
   - Adicione uma descrição para o _Pull Request_ e clique no botão verde _"Create pull request"_
   - **Não se preocupe em preencher mais nada por enquanto!**
-  - Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/csharp-0x-exercicio-ola-mundo`/pulls) e confira que o seu _Pull Request_ está criado
+  - Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/csharp-001-exercicio-ola-mundo`/pulls) e confira que o seu _Pull Request_ está criado
 
 </details>
 
