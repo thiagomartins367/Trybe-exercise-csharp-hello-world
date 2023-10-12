@@ -12,6 +12,6 @@ public class HelloWorld
     // 2 - Retorne a string 'Seja bem-vindo, Tryber!
     public static string GreetTryber()
     {
-        throw new NotImplementedException();
+        return "Seja bem-vindo, Tryber!";
     }
 }
