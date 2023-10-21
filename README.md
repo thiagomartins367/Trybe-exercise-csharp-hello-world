@@ -195,13 +195,3 @@ O seu primeiro projeto será simples para você preparar e se familiarizar com o
 - Não se preocupe ainda com o código-base já implementado no arquivo, veremos essa estrutura na hora certa!.
 
 </details>
-
-<details>
-  <summary><strong>🗣 Nos dê feedbacks sobre o projeto!</strong></summary><br />
-
-Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência preenchendo o formulário. 
-**Leva menos de 3 minutos!**
-
-[FORMULÁRIO DE AVALIAÇÃO DE PROJETO](https://be-trybe.typeform.com/to/PsefzL2e)
-
-</details>
